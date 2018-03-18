@@ -1,5 +1,5 @@
 # hello-world
-A repsotiry for the CS50 course at Harvard
+A repository for the CS50 course at Harvard
 
 About me:
 I am a student at the Norwegian School of Economics (NHH)
